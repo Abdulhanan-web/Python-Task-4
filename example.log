@@ -1,0 +1,8 @@
+2025-07-01 10:00:00 INFO Application started
+2025-07-01 10:01:12 WARNING Low memory detected
+2025-07-01 10:02:30 ERROR Failed to connect to database
+2025-07-01 10:03:45 INFO User login successful
+2025-07-01 10:04:10 ERROR Timeout while processing request
+2025-07-02 09:15:20 WARNING Disk space running low
+2025-07-02 09:16:00 INFO Scheduled job started
+2025-07-02 09:17:35 ERROR Null pointer exception
